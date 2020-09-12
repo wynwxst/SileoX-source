@@ -1,0 +1,16 @@
+Package: xyz.sn0wstar.sileo
+Priority: required
+Section: Packaging
+Maintainer: sn0wstar <blzzardst0rm@gmail.com>
+Architecture: iphoneos-arm
+Icon: https://realmcode.com/images/saily-repo/images/saily-pic.jpg
+SileoDepiction: https://realmcode.com//images/saily/desc/depiction.json
+Depends: apt (>= 2.1.10-1), coreutils (>=8.32-4), dpkg (>= 1.19.2-4), procursus-keyring, zsh, cy+cpu.arm64, firmware(>=12.2) | org.swift.libswift (>=5.0)
+Conflicts: cydia-gui (<<99.0)
+Pre-Depends: debianutils, dpkg (>= 1.18)
+Description: Sileo but remastered presenting SileoX. (View this package in Sileo to see the full depiction)
+Name: SileoX
+Author: Ssn0wstar <blzzardst0rm@gmail.com>
+Tag: cydia::essential
+Version: 1.0b1
+Installed-Size: 12652
