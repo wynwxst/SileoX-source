@@ -1,1 +1,1 @@
-dpkg-deb -–build xyz.sn0wstar.sileoX_1.0_iphoneos-arm
+dpkg-deb -–build SileoX
